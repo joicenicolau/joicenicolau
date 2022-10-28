@@ -24,8 +24,8 @@ Welcome to my profile! I'm a web development student from brazil. Thanks for vis
  
  <div>
   <a href="https://github.com/joicenicolau">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=joicenicolau&show_icons=true&theme=material-palenight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joicenicolau&layout=compact&langs_count=7&theme=material-palenight"/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=joicenicolau&show_icons=true&theme=material-palenight&include_all_commits=true&count_private=true"/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joicenicolau&layout=compact&langs_count=7&theme=material-palenight"/>
 </div>
 
  ##
