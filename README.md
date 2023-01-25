@@ -8,6 +8,7 @@ Welcome to my profile! I'm a web development student from brazil. Thanks for vis
 
 ##
 
+
 **Programming Languages and Technologies I Use:**
  <div style="display: inline_block"><br>
   <img align="center" alt="Js" max-width="100%" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
@@ -27,10 +28,13 @@ Welcome to my profile! I'm a web development student from brazil. Thanks for vis
  
  ##
  
+ 
+<img align="center" width="500px" src="https://camo.githubusercontent.com/a9bb03666a5035803211a2352029182051c45634c52405aa91f52eb2d9c4f445/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170693f757365726e616d653d6a6f6963656e69636f6c61752673686f775f69636f6e733d74727565267468656d653d7261646963616c26686964653d636f6e74726962732c7374617273" data-canonical-src="https://github-readme-stats.vercel.app/api?username=joicenicolau&show_icons=true&theme=radical&hide=contribs,stars" style="max-width: 100%;" />
+ 
+ <br />
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=joicenicolau&show_icons=true&theme=radical&hide=contribs,stars)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joicenicolau&layout=compact&theme=radical)](https://github.com/joicenicolau/github-readme-stats)
-
+<img align="center" width="500px" src="https://camo.githubusercontent.com/bfedb73fe0fa796a05eba0667c96aba8858feaf51b21794587710dcd3f0357c7/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170692f746f702d6c616e67732f3f757365726e616d653d6a6f6963656e69636f6c6175266c61796f75743d636f6d70616374267468656d653d7261646963616c" data-canonical-src="https://github-readme-stats.vercel.app/api/top-langs/?username=joicenicolau&layout=compact&theme=radical" style="max-width: 100%;">
+ 
 ##
  
  
