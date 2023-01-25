@@ -10,8 +10,6 @@ Welcome to my profile! I'm a web development student from brazil. Thanks for vis
 
 **Programming Languages and Technologies I Use:**
  <div style="display: inline_block"><br>
-  <img align="center" alt="Html" max-width="100%" src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white">
-  <img align="center" alt="Css" max-width="100%" src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white">
   <img align="center" alt="Js" max-width="100%" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
   <img align="center" alt="HTML5" max-width="100%" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
   <img align="center" alt="CSS3" max-width="100%" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
