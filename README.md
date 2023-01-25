@@ -27,12 +27,24 @@ Welcome to my profile! I'm a web development student from brazil. Thanks for vis
  
  ##
  
- <div>
-  <a href="https://github.com/joicenicolau">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=joicenicolau&show_icons=true&theme=material-palenight&include_all_commits=true&count_private=true"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joicenicolau&layout=compact&langs_count=7&theme=material-palenight"/>
-</div>
+ <table><tr><td valign="top" width="50%">
 
- ##
+<img src="https://github-readme-stats.vercel.app/api?username=joicenicolau&show_icons=true&count_private=true&hide_border=true" align="left" style="width: 100%" />
+
+</td><td valign="top" width="50%">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rishavanand&hide_border=true&layout=compact" align="left" style="width: 100%" />
+
+</td></tr></table>  
+
+<br/>  
+
   
-![](https://visitor-badge.glitch.me/badge?page_id=joicenicolau.joicenicolau)
+<br/>  
+
+![Profile views counter](https://komarev.com/ghpvc/?username=joicenicolau&&style=flat-square)  
+  
+
+<br/>  
+
+<br />
