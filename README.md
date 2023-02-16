@@ -3,7 +3,6 @@
 Welcome to my profile! I'm a web development student from brazil. Thanks for visiting and I'd love to [connect](https://www.linkedin.com/in/joice-nicolau-710a0424a/)!
 
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joicenicolau/)
-[![Twitter Badge](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/joimnick)
 [![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/joicenicolau/)
 
 ##
