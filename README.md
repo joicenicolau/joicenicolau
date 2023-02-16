@@ -1,6 +1,6 @@
 
 # Hi there! I'm Joice 👋 
-Welcome to my profile! I'm a web development student from brazil. Thanks for visiting and I'd love to [connect](https://www.linkedin.com/in/joice-nicolau-710a0424a/)!
+Welcome to my profile! I'm a web development student from Brazil. Thanks for visiting and I'd love to [connect](https://www.linkedin.com/in/joice-nicolau-710a0424a/)!
 
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joicenicolau/)
 [![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/joicenicolau/)
