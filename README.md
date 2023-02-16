@@ -4,7 +4,7 @@ Welcome to my profile! I'm a web development student from Brazil. Thanks for vis
 
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joicenicolau/)
 [![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/joicenicolau/)
-<a href="mailto:joice_nicolau@hotmail.com"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" style="margin-bottom: 4px;" height="30px" target="_blank"></a>
+<a href="mailto:joice_nicolau@hotmail.com"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" style="margin-bottom: 4px;" height="28px" target="_blank"></a>
 
 
 ##
