@@ -26,6 +26,9 @@ Welcome to my profile! I'm a web development student from Brazil. Thanks for vis
  <img align="center" alt="Jest" max-width="100%" src="https://img.shields.io/badge/Jest-323330?style=for-the-badge&logo=Jest&logoColor=white">
  <img align="center" alt="RTL" max-width="100%" src="https://img.shields.io/badge/testing%20library-323330?style=for-the-badge&logo=testing-library&logoColor=red">
   <img align="center" alt="Bash" max-width="100%" src="https://img.shields.io/badge/GNU%20Bash-4EAA25?style=for-the-badge&logo=GNU%20Bash&logoColor=white">
+  <img align="center" alt="Bash" max-width="100%" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white">
+ <img align="center" alt="Bash" max-width="100%" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
+ <img align="center" alt="Bash" max-width="100%" src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white">
  
  ##
  
